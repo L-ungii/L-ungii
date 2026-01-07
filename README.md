@@ -43,27 +43,17 @@ A Java EE-based web application to simplify room allocation for students.
 - **Best First Year Computer Science Student Achiever (2022)**  
 - **Best Second Year Computer Science Student Achiever (2023)**  
 - **Second Year Overall Top Student – Faculty of ICT (2023)**  
-- **Top Academic Achiever – Diploma in Computer Science (Extended)** (Jan 2023 – Jun 2024)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L-ungii&show_icons=true&theme=tokyonight" alt="Lungile's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L-ungii&theme=tokyonight" alt="Lungile's GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-ungii&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
+- **Top Academic Achiever – Diploma in Computer Science (Extended)** (Jan 2023 – Jun 2024)
+- **Best Third Year Computer Science Student Achiever (2024)**  
+- **Third Year Overall Top Student – Faculty of ICT (2024)**  
 
 ---
 
 ## 📫 Let's Connect
 - **Email:** sambolungile7@gmail.com  
 - **LinkedIn:** [Lungile Sambo](#) *(www.linkedin.com/in/lungile-sambo-24669632a)*  
-- **GitHub:** [github.com/L-ungii](https://github.com/L-ungii)  
+- **GitHub:** [github.com/L-ungii](https://github.com/L-ungii)
+- **Potfolio:** [Lungile's Potfolio] *(https://portfolio-beryl-pi.vercel.app)*
 
 ---
 
