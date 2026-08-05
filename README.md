@@ -1,12 +1,46 @@
-# 👋 Hi, I'm Lungile Sambo  
+# Hi there, I'm Lungile Sambo
 
-🎓 **Computer Science Student** at Tshwane University of Technology  
-💻 Passionate about software development, problem-solving, and using technology to create impactful solutions.  
-🏆 Consistently ranked among the **Top Achievers** in the Faculty of ICT (2022–2024).  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Graduate+in+Training+at+NRF-SARAO;Computer+Science+Graduate;Python+%7C+Java+%7C+FastAPI+Developer;Always+Learning+Something+New!" />
+</p>
 
+## About Me
+
+Computer Science Graduate from **Tshwane University of Technology**
+
+**Graduate in Training at NRF-SARAO**, contributing to software development, automation, testing, and operational systems that support world-class radio astronomy infrastructure.
+
+Passionate about backend engineering, automation, cloud technologies, DevOps, and building reliable software solutions.
+
+I'm continuously learning and improving my skills in:
+- Python Development
+- Backend Engineering
+- DevOps & CI/CD
+- Cloud Computing
+- Test Automation
+- Software Architecture
+
+I enjoy solving real-world problems through technology, collaborating with teams, and creating software that makes a meaningful impact.
 ---
+---
+# Professional Experience
 
-# 💻 Technical Skills
+## Graduate in Training | NRF-SARAO
+
+Working with software systems that support operational and engineering activities within one of the world's leading radio astronomy facilities.
+
+### Areas of Experience
+- Python Software Development
+- Test Automation
+- CI/CD Workflows using GitHub Actions
+- Linux-based Development
+- Backend Development
+- Software Debugging & Troubleshooting
+- Git & Version Control
+- System Integration Testing
+- DevOps Practices
+---
+# Technical Skills
 
 ## Programming Languages
 | Python | Java | JavaScript | SQL | HTML5 | CSS3 |
@@ -30,22 +64,22 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🏠 Student Accommodation Management System
+### Student Accommodation Management System
 A Java EE-based web application to simplify room allocation for students.  
 - **Tech Stack:** Java EE, JPA, MySQL, GlassFish, HTML, CSS, JavaScript  
 - **Role:** Lead developer, responsible for system architecture and implementation.  
 
 ---
 
-## 🌟 Achievements
+## Achievements
 - **Best First Year Computer Science Student Achiever (2022)**  
 - **Best Second Year Computer Science Student Achiever (2023)**  
 - **Second Year Overall Top Student – Faculty of ICT (2023)**  
 - **Top Academic Achiever – Diploma in Computer Science (Extended)** (Jan 2023 – Jun 2024)
 - **Best Third Year Computer Science Student Achiever (2024)**  
-- **Third Year Overall Top Student – Faculty of ICT (2024)**  
+- **Third Year Overall Top Student – Faculty of ICT (2024)**
 
 ---
 
