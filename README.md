@@ -83,7 +83,7 @@ A Java EE-based web application to simplify room allocation for students.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 - **Email:** sambolungile7@gmail.com  
 - **LinkedIn:** [Lungile Sambo](#) *(www.linkedin.com/in/lungile-sambo-24669632a)*  
 - **GitHub:** [github.com/L-ungii](https://github.com/L-ungii)
